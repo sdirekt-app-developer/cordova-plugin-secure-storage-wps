@@ -2,6 +2,9 @@
 
 [![NPM](https://nodei.co/npm/cordova-plugin-secure-storage-echo.png?mini=true)](https://nodei.co/npm/cordova-plugin-secure-storage-echo/)
 
+##### Forked from [mibrito707/cordova-plugin-secure-storage-echo](https://github.com/mibrito707/cordova-plugin-secure-storage-echo) to add some small fixes.
+In case you are asking: wps is short for 'with password settings'. This version opens the password settings directly (under android), as we experienced some problems for users having e.g. a Samsung device. Those devices do not configure screen-lock settings from within the security settings. 🤷‍♂️
+
 ##### Forked from [Crypho/cordova-plugin-secure-storage](https://github.com/Crypho/cordova-plugin-secure-storage) in a effort to keep that project alive. Thank you @ggozad.
 
 ## Introduction

@@ -23,10 +23,14 @@
     {
       "name": "Aurelien RICHAUD",
       "email": "aurelien.richaud@groupecen.com"
+    },
+    {
+      "name": "Holger Grosse-Plankermann",
+      "email": "holger.grosse-plankermann@codecentric.de"
     }
   ],
   "cordova": {
-    "id": "cordova-plugin-secure-storage-echo",
+    "id": "cordova-plugin-secure-storage-wps",
     "platforms": ["android", "ios", "wp8", "windows"]
   },
   "keywords": [
