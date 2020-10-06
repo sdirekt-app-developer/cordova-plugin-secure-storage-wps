@@ -27,6 +27,10 @@
     {
       "name": "Holger Grosse-Plankermann",
       "email": "holger.grosse-plankermann@codecentric.de"
+    },
+    {
+      "name": "Malte Basse",
+      "email": "malte.basse@sparkassen-direkt.de"
     }
   ],
   "cordova": {
