@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-secure-storage-wps",
-  "version": "5.1.1",
+  "version": "5.1.2",
   "description": "Secure storage plugin for iOS & Android",
   "author": "Yiorgis Gozadinos <ggozad@crypho.com>",
   "contributors": [
